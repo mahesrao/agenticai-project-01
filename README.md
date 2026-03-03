@@ -106,7 +106,8 @@ Once the service is restarted, open your browser and navigate to:
 `http://<your-server-ip>:8080`
 
 ```
-
-**Next Step:** Would you like me to help you create a `README.md` file specifically for your GitHub repository to explain what this project is for?
-
+**5. Create a virtual environment**
+```
+python3 -m venv .venv
+source .venv/bin/ativate
 ```
